@@ -14,5 +14,5 @@ Bu proje, bir mağazada girilen ürün tutarı ve ödenen miktara göre verilece
 GCC derleyicisi kullanarak aşağıdaki komutlarla çalıştırabilirsiniz:
 
 ```bash
-gcc main.c -o akilli_kasa
-./akilli_kasa
+gcc main.c -o akilli-kasa
+./akilli-kasa
